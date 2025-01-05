@@ -1,0 +1,36 @@
+{
+  "timestamp": "2025/01/05 21:11:10",
+  "version": "2025-01-05-21-11-10",
+  "fontType": "rounded",
+  "fontName": "MaterialSymbolsRounded.woff2",
+  "stats": {
+    "totalIcons": 4,
+    "fileSize": 467200,
+    "originalSize": 4617164,
+    "compressionRatio": "89.88%",
+    "filesScanned": 1
+  },
+  "icons": [
+    "favorite",
+    "cancel",
+    "home",
+    "add_circle"
+  ],
+  "iconUsage": {
+    "favorite": [
+      "index.html"
+    ],
+    "cancel": [
+      "index.html"
+    ],
+    "home": [
+      "index.html"
+    ],
+    "add_circle": [
+      "index.html"
+    ]
+  },
+  "fileTypes": [
+    ".html"
+  ]
+}

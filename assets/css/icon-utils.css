@@ -1,0 +1,97 @@
+.ms-round {
+    font-family: 'Material Symbols Rounded';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Default icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+}
+
+.ms-outlined {
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Default icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+}
+
+.ms-sharp {
+    font-family: 'Material Symbols Sharp';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 24px;  /* Default icon size */
+    display: inline-block;
+    line-height: 1;
+    text-transform: none;
+    letter-spacing: normal;
+    word-wrap: normal;
+    white-space: nowrap;
+    direction: ltr;
+}
+
+/* icon-size */
+.ms-size-20 {
+    font-size: 20px;
+    font-variation-settings: 'OPSZ' 20;
+}
+.ms-size-24 {
+    font-size: 24px;
+    font-variation-settings: 'OPSZ' 24;
+}
+.ms-size-40 {
+    font-size: 40px;
+    font-variation-settings: 'OPSZ' 40;
+}
+.ms-size-48 {
+    font-size: 48px;
+    font-variation-settings: 'OPSZ' 48;
+}
+
+/* Font Weights */
+.ms-wght-100 {
+    font-variation-settings: 'wght' 100;
+}
+
+.ms-wght-200 {
+    font-variation-settings: 'wght' 200;
+}
+
+.ms-wght-300 {
+    font-variation-settings: 'wght' 300;
+}
+
+.ms-wght-400 {
+    font-variation-settings: 'wght' 400;
+}
+
+.ms-wght-500 {
+    font-variation-settings: 'wght' 500;
+}
+
+.ms-wght-600 {
+    font-variation-settings: 'wght' 600;
+}
+
+.ms-wght-700 {
+    font-variation-settings: 'wght' 700;
+}
+
+/* Fill Styles */
+.ms-fill {
+    font-variation-settings: 'FILL' 1;
+}
+
+.ms-outlined {
+    font-variation-settings: 'FILL' 0;
+}

@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025/01/05 21:11:11",
+  "version": "2025-01-05-21-11-11",
+  "fontType": "outlined",
+  "fontName": "MaterialSymbolsOutlined.woff2",
+  "stats": {
+    "totalIcons": 1,
+    "fileSize": 2004,
+    "originalSize": 3394148,
+    "compressionRatio": "99.94%",
+    "filesScanned": 1
+  },
+  "icons": [
+    "home"
+  ],
+  "iconUsage": {
+    "home": [
+      "index.html"
+    ]
+  },
+  "fileTypes": [
+    ".html"
+  ]
+}

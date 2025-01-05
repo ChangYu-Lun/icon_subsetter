@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025/01/05 21:11:12",
+  "version": "2025-01-05-21-11-12",
+  "fontType": "sharp",
+  "fontName": "MaterialSymbolsSharp.woff2",
+  "stats": {
+    "totalIcons": 1,
+    "fileSize": 7392,
+    "originalSize": 2993260,
+    "compressionRatio": "99.75%",
+    "filesScanned": 1
+  },
+  "icons": [
+    "favorite"
+  ],
+  "iconUsage": {
+    "favorite": [
+      "index.html"
+    ]
+  },
+  "fileTypes": [
+    ".html"
+  ]
+}
